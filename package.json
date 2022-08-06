@@ -1,0 +1,22 @@
+{
+  "name": "all-class",
+  "version": "0.0.2",
+  "description": "create html classNames by providing a namespace and modifiers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasbg/all-class.git"
+  },
+  "author": "Nick Burke-Gaffney (nicholasbg@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholasbg/all-class/issues"
+  },
+  "homepage": "https://github.com/nicholasbg/all-class#readme",
+  "dependencies": {
+    "trim-all": "^1.0.2"
+  }
+}
