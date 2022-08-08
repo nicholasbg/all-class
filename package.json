@@ -2,7 +2,8 @@
   "name": "all-class",
   "version": "0.0.2",
   "description": "create html classNames by providing a namespace and modifiers",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,9 @@
   },
   "homepage": "https://github.com/nicholasbg/all-class#readme",
   "dependencies": {
-    "trim-all": "^1.0.2"
+    "trim-all": "^1.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
   }
 }
